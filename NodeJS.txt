@@ -1,0 +1,4 @@
+
+Node JS
+- is not a programming language.
+- it is a runtime environment. That allows you to run JavaScript in a server.
