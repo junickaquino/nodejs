@@ -2,3 +2,17 @@
 Node JS
 - is not a programming language.
 - it is a runtime environment. That allows you to run JavaScript in a server.
+
+
+npm install lodash
+- Lodash makes JavaScript easier by taking the hassle out of working with arrays, numbers, objects, strings, etc.
+    Lodash’s modular methods are great for:
+
+    Iterating arrays, objects, & strings
+    Manipulating & testing values
+    Creating composite functions
+
+
+npm install -g nodemon
+- nodemon is a tool that helps develop node.js based applications by automatically restarting the node application
+     when file changes in the directory are detected.
