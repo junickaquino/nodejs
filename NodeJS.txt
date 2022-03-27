@@ -1,3 +1,27 @@
 The Net Ninja - Node JS
 https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp&index=1&t=1s
 
+What is NodeJS for?
+    - A platform which allows us to run JavaScript on a computer / server.
+    - Read, delete, and update files
+    - Easily communicate with a database
+
+Why is it Popular?
+    - Uses JavaScript
+    - Very Fast 
+    - Huge ecosystem of opensource pckages (npm)
+    - Great for real-time services (like chats)
+
+What We'll Learn:
+    - The inner workings of NodeJS
+        - V8 engine
+        - Modules
+        - Event emitter
+        - The file system
+    
+    - Creating a web server
+        - Routing
+        - Express
+        - Templating
+
+    - Make a Node JS application (to do app)
