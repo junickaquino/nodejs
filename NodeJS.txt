@@ -25,3 +25,16 @@ What We'll Learn:
         - Templating
 
     - Make a Node JS application (to do app)
+
+
+====================
+ - The V8 engine -
+
+Computers do not understand JavaScript
+
+A JavaScript engine takes JavaScript, and converts it into something it does understand-machine code.
+
+Written in C++
+
+
+====================
